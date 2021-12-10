@@ -3,3 +3,6 @@
 <br> #Read Carefully
 <br> Pascal's trianglem in algebra, a triangular arrangement of numbers that gives the coefficients in the expansion of any binominal expression.
 <br> Klo di Indonesian artinya Segitiga Pascal dalam aljabar, susunan bilangan segitiga yang memberikan koefisien dalam perluasan ekspresi binominal apa pun.
+
+Contoh eksekusinya <br>
+<img src=https://github.com/arihidayatm/gelombang-transendensi/blob/main/gelombang-transendensi%20pict.png>
